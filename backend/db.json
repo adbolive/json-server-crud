@@ -1,12 +1,3 @@
 {
-  "users": [
-    {
-      "name": "Adriano Batista de Oliveira",
-      "username": "adbolive",
-      "email": "adboliv@gmail.com",
-      "profile": "admin",
-      "password": "passwd",
-      "id": 1
-    }
-  ]
+  "users": []
 }
